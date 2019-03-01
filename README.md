@@ -1,4 +1,4 @@
-# Vformat
+# Vfat Format
 Essentially 3 scripts that will run after 1 command to reformat a hard drive / USB drive for Ubuntu 18.04.1
 
 # Purpose
